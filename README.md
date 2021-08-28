@@ -1,4 +1,4 @@
-![](assets/yaseer%20okino.mp4)
+![](assets/yaseer%20okino.gif)
 
 <!--
 **yaseerokino/yaseerokino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
