@@ -1,12 +1,12 @@
 <img src="assets/back.gif" width="100%" height="100%"/>
-<!-- <br/>
-<br/>
-<br/>
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+
+
+## About Me:
+
+- 🔭 I’m currently working on my portfolio
+- 💻 Code: JavaScript, HTML, CSS & SASS, React. 
+- 👯 Degree: BSc Computer Science (Systems Engineering)
+- 😄 Language: English
+- 🌱 Status:  🟢  Always Online
+- 📫 Reach me on yaseerokino@outlook.com
+
