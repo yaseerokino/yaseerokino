@@ -1,10 +1,9 @@
 <!-- <img src="assets/back.gif" width="100%" height="100%"/> -->
 
-```
-
+```md
 Hi there 👋, [I'm Yaseer Anaisi Okino]
-> Software Developer | UI Enthusiast | Graphics Designer
 
+> Software Developer | UI Enthusiast | Graphics Designer
 ```
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
@@ -63,6 +62,10 @@ const myStack = {
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=yaseerokino&show_icons=true&theme=nord)](https://github.com/yaseerokino/yaseerokino)
 
+```md
+A **Dev** can be a **Designer**
+```
+
 <!-- ### **Stack**
 
 #### **Languages**
@@ -93,7 +96,3 @@ const myStack = {
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) -->
-
-```
-
-```
