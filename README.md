@@ -14,37 +14,28 @@ Hi there 👋, [I'm Yaseer Anaisi Okino]
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
 
 ```javascript
+const aboutMe = {
+  Code: 'JavaScript, HTML, Ruby, MongoDB, PostgreSQL',
 
-const aboutMe  = {
+  Degree: 'BSc Computer Science (Systems Engineering)',
 
-//I’m currently working on my portfolio
+  Language: 'English',
 
-     💻 Code: "JavaScript, HTML, Ruby, MongoDB, PostgreSQL".
-
-     👯 Degree: "BSc Computer Science (Systems Engineering)"
-
-     😄 Language: "English"
-
-     🌱 Status: "Always Online"
-
-}
-
-
+  Status: 'Always Online',
+};
 ```
 
 ```javascript
 const myStack = {
 
-     //My favorite languages and frameworks
-
-     languages: {
+     Languages: {
 
           primary: "JAVASCRIPT",
 
           others: ["RUBY", "HTML", "CSS"]
      },
 
-     myFrameworks: = {
+     Frameworks: = {
 
           frontEnd: ["ReactJS", "Redux", "SASS", "TailWindCSS", "ChakraUI" ],
 
@@ -52,7 +43,7 @@ const myStack = {
 
      },
 
-     myDatabases:  ["MongoDB", "PostgreSQL"]
+     Databases:  ["MongoDB", "PostgreSQL"]
 
 
 }
