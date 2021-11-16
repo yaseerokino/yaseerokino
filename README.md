@@ -14,15 +14,20 @@ Hi there 👋, [I'm Yaseer Anaisi Okino]
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
 
 ```javascript
-const aboutMe = {
-  Code: 'JavaScript, HTML, Ruby, MongoDB, PostgreSQL',
 
-  Degree: 'BSc Computer Science (Systems Engineering)',
+const aboutMe  = {
 
-  Language: 'English',
+     💻 Code: "JavaScript, HTML, Ruby, MongoDB, PostgreSQL",
 
-  Status: 'Always Online',
-};
+     👯 Degree: "BSc Computer Science (Systems Engineering)",
+
+     😄 Language: "English",
+
+     🌱 Status: "Always Online",
+
+}
+
+
 ```
 
 ```javascript
