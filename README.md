@@ -19,15 +19,13 @@ const aboutMe  = {
 
 //I’m currently working on my portfolio
 
-💻 Code: "JavaScript, HTML, Ruby, MongoDB, PostgreSQL".
+     💻 Code: "JavaScript, HTML, Ruby, MongoDB, PostgreSQL".
 
-👯 Degree: "BSc Computer Science (Systems Engineering)"
+     👯 Degree: "BSc Computer Science (Systems Engineering)"
 
-😄 Language: "English"
+     😄 Language: "English"
 
-🌱 Status: "Always Online"
-
-//📫 Reach me on yaseerokino@outlook.com
+     🌱 Status: "Always Online"
 
 }
 
@@ -63,7 +61,7 @@ const myStack = {
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=yaseerokino&show_icons=true&theme=nord)](https://github.com/yaseerokino/yaseerokino)
 
 ```md
-A **Dev** can be a **Designer**
+> A Dev can be a Designer
 ```
 
 <!-- ### **Stack**
