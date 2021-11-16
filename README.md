@@ -61,7 +61,7 @@ const myStack = {
 }
 ```
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=yaseerokino&show_icons=true&theme=dark)](https://github.com/yaseerokino/yaseerokino)
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=yaseerokino&show_icons=true&theme=github_dark)](https://github.com/yaseerokino/yaseerokino)
 
 <!-- ### **Stack**
 
