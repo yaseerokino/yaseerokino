@@ -37,22 +37,22 @@ const myStack = {
 
      //My favorite languages and frameworks
 
-     const languages = {
+     languages: {
 
           primary: "JAVASCRIPT",
 
           others: ["RUBY", "HTML", "CSS"]
      },
 
-     const myFrameworks = {
+     myFrameworks: = {
 
-          frontEnd = ["ReactJS", "Redux", "SASS", "TailWindCSS", "ChakraUI" ]
+          frontEnd: ["ReactJS", "Redux", "SASS", "TailWindCSS", "ChakraUI" ],
 
-          backEnd = ["NodeJS", "Rails", "Express", "Mongoose", "JWT"]
+          backEnd: ["NodeJS", "Rails", "Express", "Mongoose", "JWT"]
 
-     }
+     },
 
-     const myDatabases =  ["MongoDB", "PostgreSQL"]
+     myDatabases:  ["MongoDB", "PostgreSQL"]
 
 
 }
