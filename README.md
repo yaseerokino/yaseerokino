@@ -3,7 +3,7 @@
 ```md
 Hi there 👋, I'm Yaseer Anaisi Okino
 
-> Software Developer | UI Enthusiast | Graphics Designer
+> Software Developer & UI Enthusiast
 ```
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
